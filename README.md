@@ -20,7 +20,7 @@ HDZog Downloader is a browser extension for users who want a more direct way to 
 
 ## Preview
 
-![HDZog Downloader workflow preview](assets/workflow-preview.svg)
+![HDZog Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
