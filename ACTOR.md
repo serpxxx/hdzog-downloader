@@ -1,4 +1,4 @@
-# HDZog Downloader (Browser Extension)
+# HDZog Downloader
 
 > Download supported HDZog videos as MP4 files from the browser with direct quality selection.
 
