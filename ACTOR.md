@@ -1,4 +1,4 @@
-# Hdzog Video Downloader | How to Download Hdzog Videos
+# HDZog Video Downloader | How to Download HDZog Videos
 
 > Download supported HDZog videos as MP4 files from the browser with direct quality selection.
 
@@ -6,7 +6,7 @@
 
 Get it here: https://serp.ly/hdzog-downloader
 
-![Hdzog Downloader](https://raw.githubusercontent.com/serpxxx/hdzog-downloader/main/assets/workflow-preview.webp)
+![HDZog Downloader](https://raw.githubusercontent.com/serpxxx/hdzog-downloader/main/assets/workflow-preview.webp)
 
 HDZog Downloader is a browser extension for users who want a more direct way to save supported HDZog videos without relying on generic downloader sites or HLS tools. It detects supported video pages in the browser, exposes the available qualities, and exports finished downloads as MP4 for easier playback later.
 
