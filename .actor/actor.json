@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Hdzog Downloader gives creators and teams a dependable way to save HDZog videos for offline access. Instead of juggling manual captures or risky browser extensions, it pulls publicly accessible files directly from HDZog with consistent quality.\n\nUse it to archive research material, prep client deliverables, or keep your personal library available when you're traveling or working with limited connectivity.",
+  "description": "HDZog Downloader helps users save accessible videos for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
-  "name": "hdzog-downloader",
+  "name": "hdzog-video-downloader",
   "readme": "../ACTOR.md",
-  "title": "Hdzog Video Downloader | How to Download Hdzog Videos",
+  "title": "HDZog Video Downloader | How to Download HDZog Videos",
   "version": "0.0"
 }
